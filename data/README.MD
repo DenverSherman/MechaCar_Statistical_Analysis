@@ -1,7 +1,3 @@
-# MechaCar_Statistical_Analysis
-Intro to R, ggplot2
-
-
 # 1. Statistical Analysis for MPG - Multiple Regression
 Our initial multiple regression yields significant factors in mpg outcomes; vehicle length and ground clearance show positive correlations with fuel efficiancy at .001 significance. 
 
